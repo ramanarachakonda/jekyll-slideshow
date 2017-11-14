@@ -9,3 +9,5 @@ collections:
   slides:
     output: true
 
+
+theme: jekyll-theme-leap-day
